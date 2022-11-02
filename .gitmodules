@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cookies"]
+	path = cookies
+	url = https://github.com/r4ds/cookies
+	shallow = true
+	registered = true
